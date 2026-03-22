@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi There!, I am Vikhyat Singh
 
-<!--
-**Vikhyat-s/Vikhyat-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Computer Science and Mathematics student at BITS Pilani. Interested in **finance, mathematics, analytics and problem solving**.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Quantitative Finance
+- Financial Modeling & Valuation
+- Investment Research
+- Risk Analytics
+- Machine Learning
+- Tech-Enabled Finance workflows
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Credentials
+- CFA Level I (Jan 2026)
+- IAI Member (ACET Cleared)
+- President, The Wall Street Club (AY 2024-25)
+
+## Tech Stack
+
+### Languages
+`Python` `C/C++`  `SQL` 
+
+### Finance / Analytics
+`Excel` `DCF` `WACC` `CAPM` `Risk Analytics` `Credit Analysis` `Valuation` `Dashboarding`
+
+### Data / ML
+`Pandas` `NumPy` `Matplotlib` `Jupyter`
+
+### Tools / Platforms
+`Git` `GitHub` `Overleaf` `Notion` 
