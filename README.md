@@ -1,4 +1,4 @@
-# Hi There!, I am Vikhyat Singh
+# Hi There! I am Vikhyat Singh
 
 A Computer Science and Mathematics student at BITS Pilani. Interested in **finance, mathematics, analytics and problem solving**.
 
