@@ -4,9 +4,9 @@
 
 ## Experience
 
-Incoming/Current: Internship at JPMorgan Chase & Co. (JPMC).
-Financial Analytics Intern @ Lorien Finance (Feb 2026 - Mar 2026).
-Summer Intern @ INDIAai (May 2024 - July 2024).
+- Incoming/Current: Internship at JPMorgan Chase & Co. (JPMC)
+- Financial Analytics Intern @ Lorien Finance (Feb 2026 - Mar 2026)
+- Summer Intern @ INDIAai (May 2024 - July 2024)
 
 ## Focus Areas
 - Quantitative Finance
